@@ -1,0 +1,18 @@
+.board-row{
+  display: flex;
+  flex-wrap: wrap;
+  width:150px;
+  margin:60px 400px;
+} 
+.status{
+  margin:20px 410px;
+}
+
+.square{
+ background-color:cadetblue;
+ height:50px;
+ width:50px;
+ border:1px solid black;
+ 
+}
+
